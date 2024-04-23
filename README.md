@@ -18,6 +18,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 ![image](https://user-images.githubusercontent.com/36288975/226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b.png)
 
 4.select the program name 
+
 ![image](https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711.png)
 
 
@@ -51,13 +52,20 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
+```
+Developed by:Sharangini T K
+Register No:212222230143
+```
+![111](https://github.com/premalatha-sureshbabu/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120620842/b5a2ec82-d20f-46f7-a9a9-5a6dff5e2b7a)
 
 
 
 ## Output  :
- 
- 
- 
- 
+
+ ![Screenshot 2024-03-19 140845](https://github.com/premalatha-sureshbabu/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120620842/6488bb84-9626-48a1-b369-e6e87a228904)
+
+ ![Screenshot 2024-03-19 140931](https://github.com/premalatha-sureshbabu/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120620842/de53a386-26a6-4310-9c0a-f2d65e7df74d)
+
+
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
